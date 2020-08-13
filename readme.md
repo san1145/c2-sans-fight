@@ -1,26 +1,34 @@
-# Bad Time 模拟器 (Sans VS Chara 战)
+# Sans 模拟器 - Bad Time Simulator (Sans Fight)
 
-该仓库clone自 [Jcw87/c2-sans-fight](https://github.com/Jcw87/c2-sans-fight) ，并稍微魔改了一下。
+该仓库clone自原作者 [Jcw87/c2-sans-fight](https://github.com/Jcw87/c2-sans-fight) ，并稍微做了一些魔改。
 
-游戏取自知名独立游戏 [Undertale（传说之下）](http://undertale.com/) 中，
+对战桥段取自于 知名独立游戏 [Undertale（传说之下）](http://undertale.com/) 中，
 
-屠杀结局（游戏共有中立、和平、屠杀三个结局，强烈安利）的最终 BOSS战
+屠杀结局（共中立、和平、屠杀三个结局）的最终BOSS战，
+
+此游戏为该情节的 Web端移植版。
 
 ## 玩法
 
-主要玩法为 控制Heart的方向，躲避Sans弹幕式的攻击
+主要玩法为 控制 ❤Heart 方向，躲避 Sans 的弹幕式攻击
 
-PC 端使用十字键控制 Heart 移动，`Z` / ` Enter` - 确定， `X` - 返回
+PC 端使用 上下左右方向键 控制 ❤Heart 移动，`Z` / ` Enter` - 确定， `X` - 返回
 
-移动端滑动屏幕进行移动，但是操作困难。但可以下载 "游戏键盘" APP，自定义摇杆进行游玩。
+移动端滑动屏幕进行移动，但是操作较为困难。
+
+建议下载 "游戏键盘" APP，自定义摇杆映射后进行游玩。
 
 
 
 ## 二次开发
 
-游戏采用 [Construct 2](https://www.scirra.com/construct2) html5游戏开发引擎进行开发，需要付费版（个人版 99刀/年）才能编译输出html文件
+游戏采用 [Construct 2](https://www.scirra.com/construct2) html5游戏开发引擎进行开发，
 
-已编译好的文件位于 `./Build` 目录，有需要请自取
+并且需要付费（个人版 99刀/年）才能编译输出html文件。
+
+我已经编译好了 html 文件放在仓库里，
+
+文件在 `./Build` 目录，需要请自取。
 
 
 
